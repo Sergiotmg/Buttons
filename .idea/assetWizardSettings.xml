@@ -29,11 +29,25 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                      <entry key="image">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="paddingPercent" value="15" />
+                                                <entry key="trimmed" value="true" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                     </map>
                                   </option>
                                   <option name="values">
                                     <map>
+                                      <entry key="imageAsset" value="C:\Users\Sergio\Downloads\baseline-thumb_down-black-18\2x\baseline_thumb_down_black_18dp.png" />
                                       <entry key="outputName" value="ic_alarm" />
+                                      <entry key="themeColor" value="04010c" />
                                     </map>
                                   </option>
                                 </PersistentState>
